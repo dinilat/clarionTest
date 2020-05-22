@@ -1,0 +1,20 @@
+[
+    {
+        "id" : 1,
+        "name" : "item1",
+        "rate" : 100,
+        "quantity":1
+    },
+    {
+        "id" : 2,
+        "name" : "item2",
+        "rate" : 100,
+        "quantity":2
+    },
+    {
+        "id" : 3,
+        "name" : "item3",
+        "rate" : 100,
+        "quantity":3
+    }
+]
